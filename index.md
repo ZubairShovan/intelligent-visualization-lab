@@ -2,9 +2,13 @@
 title: Home
 ---
 
+{% include welcome.html %}
+
+<!-- section break -->
+
 {% include bannerSlideShow.html images=site.slideShow %}
 
-# Welcome
+
 
 
 The Intelligent Visualization lab was created in the fall of 2019, when [Dr. Enamul Hoque Prince](https://www.yorku.ca/enamulh/index.html) joined the School of Information Technology at [York University](https://www.yorku.ca). He is a member of the Graduate Faculty for both the Department of [Electrical Engineering & Computer Science](https://www.eecs.yorku.ca/) and the [School of Information Technology](http://itec.laps.yorku.ca/). Before joining York University Dr. Enamul Hoque Prince was a postdoc in the HCI group at [Stanford University](https://www.stanford.edu/), where he worked with [Maneesh Agrawala](http://graphics.stanford.edu/~maneesh/). 
@@ -34,4 +38,28 @@ We are looking for qualified students for positions in my research group, includ
 
 ## Recent Projects
 
-{% include recent-projects.html %}
+
+## _Natural Language Interactions with Visual Analytics_
+
+{% include figure.html image="images/deictic.png" link="/research" %}
+
+This project explores how principles from language pragmatics can be applied
+to the flow of visual analytical conversations, using natural language as an input modality.
+
+
+## _Visual text analytics for online conversations_
+
+{% include figure.html image="images/3.jpg" link="/research" %}
+
+We developed visual text analytics tools and techniques for exploring and analyzing online conversations.
+
+## _User-Adaptive Information Visualization_
+
+{% include figure.html image="images/intervention2.png" link="/research" %}
+
+This project explores how user characteristics impacts on visualization effectiveness and how can a visualization adapt to such characterstics.
+
+
+
+
+
