@@ -29,3 +29,9 @@ The research interests of our lab broadly span many areas of Computer Science an
 ## Prospective Students
 
 We are looking for qualified students for positions in my research group, including MSc and PhD students in [Computer Science](http://eecs.gradstudies.yorku.ca/future-students/), and Master of [Information Systems & Technology students](https://ist.gradstudies.yorku.ca/). Please drop me an email with your CV if you are interested in pursuing research in any of the areas of natural language processing, information visualization and HCI.
+
+<!-- section break -->
+
+## Recent Projects
+
+{% include recent-projects.html %}
