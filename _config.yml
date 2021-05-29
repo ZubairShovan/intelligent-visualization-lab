@@ -11,7 +11,7 @@ twitter: Enamul_Hoque # default Twitter handle, without the @
 
 # base directory where site is hosted
 # set to "" if hosting at a custom domain, eg yoursite.com
-baseurl: "/"
+baseurl: "/intelligent-visualization-lab"
 
 # default front matter parameters for markdown files
 # defaults can be overridden on a particular page, eg:
