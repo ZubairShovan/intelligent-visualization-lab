@@ -8,7 +8,7 @@ redirect_from:
   - /trainees
 ---
 
-# <i class="fas fa-users"></i>
+# <i class="fas fa-users"></i> Team Members of Intelligent Visualization Lab
 
 
 ## Principal Investigator 
