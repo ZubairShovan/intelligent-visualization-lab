@@ -67,52 +67,139 @@
     - COVID-19
     - Tools
 
-
-- id: doi:10.1101/2020.11.06.371963
-  thumbnail: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+- id: 10.1109/TVCG.2019.2934431
+  image: https://www.yorku.ca/enamulh/vis-search/img/teaser_scatter_plot_contrast.png
   tags:
-    - cancer
-    - single cell
-    - ovarian cancer
+    - Visualization search engine
+    - Visualization design
+    - Vearch user interfaces
 
-- id: doi:10.1098/rsif.2017.0387
-  image: https://royalsocietypublishing.org/cms/asset/1b0430b1-5a66-4523-83be-29b435eddf86/rsif20170387f01.jpg
-  extra-links:
-    - type: preprint
-      link: https://doi.org/10.1101/142760
-    - type: source
-      link: http://github.com/greenelab/deep-review
-
-- id: doi:10.1371/journal.pcbi.1007128
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  date: 2020-6-2
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
+- id: 10.1177/1473871618757228
+  thumbnail: https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/ivia/2019/ivia_18_3/1473871618757228/20190607/images/medium/10.1177_1473871618757228-fig1.gif
   tags:
-    - knowledge graphs
+    - Visual text analytics
+    - Text visualization
+    - Interactive topic modeling
+    - Asynchronous conversations
+    - Computer-mediated communication
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: 10.1109/TVCG.2017.2744684
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/2945/8165924/8019833/24tvcg01-setlur-2744684-fig-1-source-small.gif
+  tags:
+    - natural language
+    - interaction
+    - language pragmatics
+    - visual analytics
+    - ambiguity
+    - feedback
+
+- id: 10.1145/2854158
   extra-links:
-    - type: preprint
-      link: https://doi.org/10.7287/peerj.preprints.3100v1
-    - type: manubot
-      link: https://greenelab.github.io/scihub-manuscript/
     - type: source
-      link: https://github.com/greenelab/scihub-manuscript
-      text: Manuscript source
+      link: https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F2854158&file=hoque.zip
+
+- id: 10.1145/2678025.2701370
+  image: https://www.cs.ubc.ca/cs-research/lci/research-groups/natural-language-processing/image/convis/3.jpg
+  extra-links:
     - type: source
-      link: https://github.com/greenelab/scihub
-      text: Analyses source
+      link: https://github.com/enamulubc/ConVis
+
+- id: arXiv:2010.09142
+  extra-links:
+    - type: source
+      link: https://github.com/JasonObeid/Chart2Text
+  tags:
+    - Chart Summarization
+    - NLP
+
+
+- id: 10.1109/VIS47514.2020.00056
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9329359/9331017/9331280/uddin1-p5-uddin-small.gif
+  tags:
+    - Human-centered computing
+    - Visualization
+    - Visualization design and evaluation methods
+
+- id: 10.1145/3379337.3415813
+  image: https://dl.acm.org/cms/asset/d3dbbc65-153c-4f4f-a615-37f87e8e2d4b/3379337.3415813.key.jpg
+  tags:
+    - autocompletion
+    - data preview
+    - natural language interaction
+    - visual analysis.
+  extra-links:
+    - type: source
+      link: https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3379337.3415813&file=ufp1378aux.zip
+
+- id: https://link.springer.com/chapter/10.1007/978-3-030-47358-7_35
+  tags:
+    - Query
+    - Abtractive summarization
+    - Transformer
+    - BERT
+
+- id: https://www.aclweb.org/anthology/2020.lrec-1.676/
+  tags:
+    - Answer Selection
+    - Transformer Encoder
+    - Contextualized Embeddings
+    - ELMo
+    - BERT
+    - RoBERTa
+    - Deep Learning
+
+- id: 10.1145/3313831.3376467
+  image: https://dhkim16.github.io/vis-qa/img/qa-examples.png
+  repo: https://github.com/dhkim16/VisQA-release
+  tags:
+    - Question answering
+    - Visualization
+    - Explainable AI
+
+
+
+
+
+
+
+#- id: doi:10.1098/rsif.2017.0387
+#  image: https://royalsocietypublishing.org/cms/asset/1b0430b1-5a66-4523-83be-29b435eddf86/rsif20170387f01.jpg
+#  extra-links:
+#    - type: preprint
+#      link: https://doi.org/10.1101/142760
+#    - type: source
+#      link: http://github.com/greenelab/deep-review
+
+#- id: doi:10.1371/journal.pcbi.1007128
+#  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+#  repo: greenelab/meta-review
+#  extra-links:
+#    - type: manubot
+#      link: https://greenelab.github.io/meta-review/
+#    - type: source
+#      link: https://github.com/greenelab/meta-review
+#    - type: website
+#      link: http://manubot.org/
+
+#- id: doi:10.1016/j.csbj.2020.05.017
+#  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+#  date: 2020-6-2
+#  extra-links:
+#    - type: manubot
+#      link: https://greenelab.github.io/knowledge-graph-review/
+#  tags:
+#    - knowledge graphs
+
+#- id: doi:10.7554/eLife.32822
+#  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+#  extra-links:
+#    - type: preprint
+#      link: https://doi.org/10.7287/peerj.preprints.3100v1
+#    - type: manubot
+#      link: https://greenelab.github.io/scihub-manuscript/
+#    - type: source
+#      link: https://github.com/greenelab/scihub-manuscript
+#      text: Manuscript source
+#    - type: source
+#      link: https://github.com/greenelab/scihub
+#      text: Analyses source
