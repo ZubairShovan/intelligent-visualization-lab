@@ -2,13 +2,14 @@
   * {box-sizing: border-box;}
   body {font-family: Verdana, sans-serif;}
   .mySlides {display: none;}
-  img {vertical-align: middle;}
+  img {vertical-align: middle;border-radius: 10px;}
 
   /* Slideshow container */
   .slideshow-container {
     max-width: 1000px;
     position: relative;
     margin: auto;
+
   }
 
   /* Caption text */
@@ -48,18 +49,19 @@
 
   /* Fading animation */
   .fade {
-    -webkit-animation-name: fade;
+    -webkit-animation-name: CrossFade;
     -webkit-animation-duration: 1.9s;
-    animation-name: fade;
+    animation-name: CrossFade;
     animation-duration: 1.9s;
+    border-radius: 10px;
   }
 
-  @-webkit-keyframes fade {
+  @-webkit-keyframes CrossFade {
     from {opacity: .4}
     to {opacity: 1}
   }
 
-  @keyframes fade {
+  @keyframes CrossFade {
     from {opacity: .4}
     to {opacity: 1}
   }

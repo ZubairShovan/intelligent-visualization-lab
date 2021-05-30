@@ -79,6 +79,7 @@ img {
 
 .main_nav {
   float: right;
+  padding-right: 15px;
   ul {
     margin: 0;
     padding: 0px;
@@ -153,6 +154,9 @@ img {
 
 }
 @media screen and (max-width: 767px) {
+  .container{
+    height: 69px;
+  }
   .nav_ico {
     display: block;
     position: relative;
@@ -164,7 +168,7 @@ img {
     opacity: 2;
     position: fixed;
     left: 0;
-    top: 73px;
+    top: 71px;
     padding: 0;
     background: #263238;
     z-index: 6;
