@@ -1,7 +1,7 @@
 # https://jekyllrb.com/docs/configuration/
 
 # site-wide variables
-title: Intelligent Visualization-lab # title of site, used in tab name and elsewhere
+title: Intelligent Visualization Lab # title of site, used in tab name and elsewhere
 email: enamulh@yorku.ca # default email
 google: NySeLFcAAAAJ # default name to search on Google Scholar
 github: enamulh # default GitHub user/org, without the @

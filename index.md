@@ -4,11 +4,7 @@ title: Home
 
 {% include welcome.html %}
 
-<!-- section break -->
-
-{% include bannerSlideShow.html images=site.slideShow %}
-
-
+{% include bannerSlideShow3.html images=site.slideShow %}
 
 
 The Intelligent Visualization lab was created in the fall of 2019, when [Dr. Enamul Hoque Prince](https://www.yorku.ca/enamulh/index.html) joined the School of Information Technology at [York University](https://www.yorku.ca). He is a member of the Graduate Faculty for both the Department of [Electrical Engineering & Computer Science](https://www.eecs.yorku.ca/) and the [School of Information Technology](http://itec.laps.yorku.ca/). Before joining York University Dr. Enamul Hoque Prince was a postdoc in the HCI group at [Stanford University](https://www.stanford.edu/), where he worked with [Maneesh Agrawala](http://graphics.stanford.edu/~maneesh/). 

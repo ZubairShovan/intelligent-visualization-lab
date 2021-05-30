@@ -2,7 +2,6 @@
 title: Dr. Enamul Hoque Prince
 search:
   - Enamul Hoque
-  - Prince
 role: pi
 group: current
 image: images/prof.jpg
@@ -11,8 +10,6 @@ twitter: Enamul_Hoque
 github: enamulh
 ---
 
-I am an associate professor in the [Computer Science department](http://www.cs.umd.edu) at the [University of Maryland](http://www.umd.edu). Before joining the Computer Science department at UMD, I was an assistant professor in the Computer Science department at Stony Brook University, from 2014 — 2019. Previously, I was a postdoctoral research associate working with [professor Carl Kingsford](http://kingsfordlab.cbd.cmu.edu/) in the Lane Center for computational biology (now the [Computational Biology Department](http://www.cbd.cmu.edu/)) at [Carnegie Mellon University](www.cmu.edu). I obtained my PhD in Computer Science at the University of Maryland, College Park, and defended my dissertation, [Computationally Comparing Biological Networks and Reconstructing Their Evolution](http://www.robpatro.com/newsite/documents/dissertation.pdf). My main research interests are in the design of algorithms and data structures for processing, organizing, indexing and querying high-throughput genomics data. I am also interested in the intersection between efficient algorithms and statistical inference. More broadly, I am also interested in programming languages, computer graphics, scientific visualization, parallel computation and machine learning. I also have recreational interests (though very little time to pursue them) in math, physics, music, politics and video games. While at Maryland, I've also had the pleasure of working closely with professor [Amitabh Varshney](https://www.cs.umd.edu/~varshney/) on some problems relating to computer graphics and scientific visualization.
+I am an Assistant Professor in the School of Information Technology at York University. I am a member of the Graduate Faculty for both the Department of Electrical Engineering & Computer Science and the School of Information Technology. Before joining York University I was a postdoc in the HCI group at Stanford University, where I worked with Maneesh Agrawala.
 
 My [**CV** can be found here](https://www.yorku.ca/enamulh/Enamul-cv.pdf).
-
-_Disclosure_: Rob is a co-founder and the CTO of [Ocean Genomics inc.](https://oceangenomics.com/).

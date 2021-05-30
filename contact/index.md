@@ -8,7 +8,7 @@ Our lab is part of the [Department of Electrical Engineering and Computer Scienc
 We are located at _Victor Phillip Dahdaleh Building_.
 {:.center}
 
-{% include figure.html image="images/dahdaleh.jpg" width="100%" %}
+{% include figure.html image="images/dahdaleh.jpg" width="100%" caption="Victor Phillip Dahdaleh Building" %}
 
 ## Email
 
