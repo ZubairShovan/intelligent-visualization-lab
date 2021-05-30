@@ -22,20 +22,22 @@ body {
     flex-grow: 1;
     background: $white;
   }
-  //@media (max-width: 979px) {
-  //  main {
-  //    padding-top: 0px;
-  //  }
-  //}
+  @media (max-width: 979px) {
+    main {
+      padding-top: 65px;
+    }
+  }
   
   section {
     .section {
       box-sizing: border-box;
       max-width: $page;
       margin: 0 auto;
-      padding: 40px;
+      padding: 10px;
     }
-
+    @media (max-width: 979px) {
+      padding: 15px;
+    }
     &:nth-child(even) {
       background: $off-white;
     }
