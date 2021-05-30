@@ -49,12 +49,6 @@ img {
   height: 200px;
 }
 
-a {
-  color: #FFFFFF;
-  text-decoration: none;
-  font: $sans;
-}
-
 .logo_row {
   @include inline-flex-center;
 
@@ -70,7 +64,7 @@ a {
     width: auto;
     text-align: center;
     letter-spacing: .5px;
-    color: white;
+    color: black;
   }
 
 }
@@ -163,29 +157,31 @@ a {
     display: block;
     position: relative;
     z-index: 10;
+    padding-right: 5px;
+    padding-left: 5px;
   }
   .main_nav {
-    opacity: 1;
+    opacity: 2;
     position: fixed;
     left: 0;
     top: 73px;
     padding: 0;
-    background: gainsboro;
-    z-index: 5;
-    height: 100%;
+    background: #263238;
+    z-index: 6;
+    height: auto;
     width: 100%;
-    transition: all 0.4s ease-out;
+    transition: all 0.3s ease-out;
     transform: translateX(-100%);
     ul {
       li {
         float: none;
         margin: 0 !important;
         padding: 0 !important;
-        border-bottom: 2px solid;
+        border-bottom: 2px solid white;
         text-align: center;
         a {
           display: block;
-          color: grey;
+          color: white;
           padding: 10px;
         }
       }
@@ -197,12 +193,13 @@ a {
       top: 0;
       height: 100%;
       width: 0;
-      background: rgba(0, 0, 0, 0.7);
-      opacity: .6;
+      background: #263238;
+      opacity: 2;
     }
   }
   .main_nav.active {
     transform: translateX(0%);
+    background: #263238;
     &:after {
       width: 1000%;
     }

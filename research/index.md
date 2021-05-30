@@ -2,12 +2,10 @@
 title: Research
 ---
 
-# <i class="fas fa-microscope"></i>Research
+# <i class="fas fa-microscope"></i>Publication List
 
 {% include card-search.html subject="papers" %}
 
 <!-- section break -->
-
-## Publication List
 
 {% include research-list.html %}

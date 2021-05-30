@@ -37,7 +37,7 @@ We are looking for qualified students for positions in my research group, includ
 
 ## _Natural Language Interactions with Visual Analytics_
 
-{% include figure.html image="images/deictic.png" link="/research" %}
+{% include figure.html image="images/deictic.png" link="/research/" search="Natural Language" %}
 
 This project explores how principles from language pragmatics can be applied
 to the flow of visual analytical conversations, using natural language as an input modality.
@@ -45,13 +45,13 @@ to the flow of visual analytical conversations, using natural language as an inp
 
 ## _Visual text analytics for online conversations_
 
-{% include figure.html image="images/3.jpg" link="/research" %}
+{% include figure.html image="images/3.jpg" link="/research/" search="Visual Text" %}
 
 We developed visual text analytics tools and techniques for exploring and analyzing online conversations.
 
 ## _User-Adaptive Information Visualization_
 
-{% include figure.html image="images/intervention2.png" link="/research" %}
+{% include figure.html image="images/intervention2.png" link="/research/" search="User" %}
 
 This project explores how user characteristics impacts on visualization effectiveness and how can a visualization adapt to such characterstics.
 
