@@ -137,6 +137,15 @@ img {
     }
   }
 }
+
+.main_nav ul li a.active-page
+{
+  font-style: italic;
+  //color: #64ffda;
+  color: #84ffff;
+  font-weight: 900;
+}
+
 @media only screen and (min-width:768px) and (max-width:991px) {
   .main_nav {
     ul {
@@ -208,4 +217,5 @@ img {
       width: 1000%;
     }
   }
+
 }
